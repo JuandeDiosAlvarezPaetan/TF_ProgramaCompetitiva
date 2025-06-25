@@ -1,0 +1,4 @@
+Parametro,Valor,Descripcion
+version_sistema,1.0.0,Version actual del sistema PNTD
+ultimo_id_usuario,3,Ultimo ID asignado a usuario
+ultimo_id_curso,3,Ultimo ID asignado a curso

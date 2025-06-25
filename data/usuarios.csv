@@ -1,0 +1,10 @@
+DNI,Nombre,Apellidos,Email,PasswordHash,Telefono,FechaRegistro,Activo
+71171175,Light,Yagami,ly@gmail.com,17f3058a3d6e7b0f0836044448ed5f82a1e6170f411bd0916ae097b57285534e,966922933,2025-06-24_21:55:50,1
+71324598,italo,Arredondo,italoarredondom@gmail.com,19d5d52f69ca1abd20ed2e35ac5f1884abf715ae02a715f878c052a2b1310ab2,922375642,2025-06-12_00:09:32,1
+45678901,Ana Lucia,Flores Vega,ana.flores@email.com,hash901234,954321098,18/01/2025,1
+1234567,Juan Carlos,Perez Lopez,juan.perez@email.com,hash123456,987654321,15/01/2025,1
+71385597,pepe,parker,pp@gmail.com,17f3058a3d6e7b0f0836044448ed5f82a1e6170f411bd0916ae097b57285534e,955955955,2025-06-24_21:29:00,1
+85603012,Ariel,Zegarra,ariel2025@gmail.com,5a05302a797c1ef29a77b9e3421738e53e1a90eb175fc361945e2775cc2639dc,963845121,2025-06-03_21:36:45,1
+87654321,Maria Elena,Garcia Torres,maria.garcia@email.com,hash789012,976543210,16/01/2025,1
+74737373,Juanito,Quispe,juanitoquispe@gmail.com,142c04010ee4ef39066c2ea77c7bcbf82c073f77859c769db72c3a7b228e90f4,944384234,2025-06-19_14:40:12,1
+123456,Carlos Alberto,Ruiz Mendoza,carlos.ruiz@email.com,hash345678,965432109,17/01/2025,1
